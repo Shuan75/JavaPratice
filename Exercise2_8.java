@@ -15,9 +15,7 @@ public class Exercise2_8 {
         // float f = 3.14
         float f = 3.14f;
 
-        // double d = 1.4e3f;
-        double d = 1.4;
-
+        double d = 1.4e3f;
 
         //  2 - 7. 다음 문장들의 출력 결과를 적으세요.오류가 있는 문장의 경우, '오류' 라고 적으세요.
         System.out.println("1" + "2" + " = " + "12");
